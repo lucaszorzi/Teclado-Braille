@@ -1,0 +1,16 @@
+COMO INSTALAR E UTILIZAR O TECLADO BRAILLE:
+
+INSTALAÇÃO:
+
+- Mova o arquivo TecladoBraille.apk para o cartão SD de um aparelho equipado com o sistema operacional Android;
+- Vá até as configurações do sistema;
+- Em Aplicativos, habilite a opção "Fontes desconhecidas";
+- Vá ao local no cartão SD onde o arquivo foi movido anteriormente;
+- Abra-o e clique em "Instalar".
+
+EXECUÇÃO:
+
+- Vá até as configurações do sistema novamente;
+- Em Idioma e teclado, habilite a opção "Teclado Braille";
+- Em Método de entrada, selecione "Teclado Braille";
+- Abra qualquer aplicativo onde é necessário a entrada de texto, por exemplo, Mensagens de texto, e clique em um editável de texto.
